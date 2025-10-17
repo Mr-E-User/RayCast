@@ -2,7 +2,7 @@
 _Note: running this script requires SFML 2.6.1 to be linked_
 
 ## Overview
-Send out rays from your mouse and see how they interact with the randomly placed light barriers. The code certainly isn't perfect, but it was a means for me to start learning C++ in high school and is no longer reflective of my current C++ skill level.
+Send out rays from your mouse and see how they interact with the randomly placed light barriers. The code certainly isn't perfect, but it was a means for me to start learning C++ in high school _and is no longer reflective of my current C++ proficiency_.
 
 ## List of Controllable Settings:
 - Intensity of the rays: `mouse1`/`mouse2`
